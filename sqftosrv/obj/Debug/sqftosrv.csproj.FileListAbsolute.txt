@@ -1,0 +1,5 @@
+c:\users\jdematteo\documents\visual studio 2012\Projects\sqftosrv\sqftosrv\bin\sqftosrv.dll
+c:\users\jdematteo\documents\visual studio 2012\Projects\sqftosrv\sqftosrv\bin\sqftosrv.pdb
+c:\users\jdematteo\documents\visual studio 2012\Projects\sqftosrv\sqftosrv\obj\Debug\sqftosrv.csprojResolveAssemblyReference.cache
+c:\users\jdematteo\documents\visual studio 2012\Projects\sqftosrv\sqftosrv\obj\Debug\sqftosrv.dll
+c:\users\jdematteo\documents\visual studio 2012\Projects\sqftosrv\sqftosrv\obj\Debug\sqftosrv.pdb

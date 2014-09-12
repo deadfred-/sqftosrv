@@ -1,0 +1,550 @@
+//Object 0
+if (true) then {
+	_this = createVehicle ["CDF_Soldier_Strela", [8061.083, 9078.3555, -6.1035156e-005], [], 0, "CAN_COLLIDE"];
+	_this setDir	0;
+	_this setPos	[8061.083, 9078.3555, -6.1035156e-005];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 1
+if (true) then {
+	_this = createVehicle ["MBG_Warehouse_InEditor", [8214.8076, 9028.1934, 0.95868903], [], 0, "CAN_COLLIDE"];
+	_this setDir	-287.25226;
+	_this setPos	[8214.8076, 9028.1934, 0.95868903];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 2
+if (true) then {
+	_this = createVehicle ["MAP_Tovarna2", [8119.8857, 9044.5332, 0.3974171], [], 0, "CAN_COLLIDE"];
+	_this setDir	342.49454;
+	_this setPos	[8119.8857, 9044.5332, 0.3974171];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 3
+if (true) then {
+	_this = createVehicle ["FireBarrel_DZ", [8192.0977, 9040.1533, 0.068994462], [], 0, "CAN_COLLIDE"];
+	_this setDir	0;
+	_this setPos	[8192.0977, 9040.1533, 0.068994462];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 4
+if (true) then {
+	_this = createVehicle ["MAP_Ind_SiloVelke_01", [8231.084, 8998.043, -1.4373411], [], 0, "CAN_COLLIDE"];
+	_this setDir	-105.92562;
+	_this setPos	[8231.084, 8998.043, -1.4373411];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 5
+if (true) then {
+	_this = createVehicle ["MAP_Dam_ConcP_20", [8178.062, 8978.0898, -1.0799779], [], 0, "CAN_COLLIDE"];
+	_this setDir	164.20987;
+	_this setPos	[8178.062, 8978.0898, -1.0799779];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 6
+if (true) then {
+	_this = createVehicle ["MAP_Ind_SiloVelke_01", [8159.9038, 8977.9111, -0.091969028], [], 0, "CAN_COLLIDE"];
+	_this setDir	-105.08367;
+	_this setPos	[8159.9038, 8977.9111, -0.091969028];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 7
+if (true) then {
+	_this = createVehicle ["MAP_Dam_ConcP_20", [8196.7646, 8983.3867, -1.2961806], [], 0, "CAN_COLLIDE"];
+	_this setDir	164.20987;
+	_this setPos	[8196.7646, 8983.3867, -1.2961806];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 8
+if (true) then {
+	_this = createVehicle ["MAP_A_Office02", [8177.7651, 9064.043, 0.25493163], [], 0, "CAN_COLLIDE"];
+	_this setDir	-196.83795;
+	_this setPos	[8177.7651, 9064.043, 0.25493163];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 9
+if (true) then {
+	_this = createVehicle ["MAP_Ind_TankSmall2", [8208.4766, 9064.8291, 1.2626858], [], 0, "CAN_COLLIDE"];
+	_this setDir	-17.772547;
+	_this setPos	[8208.4766, 9064.8291, 1.2626858];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 10
+if (true) then {
+	_this = createVehicle ["MAP_Dam_ConcP_20", [8215.6982, 8988.7393, -0.80665535], [], 0, "CAN_COLLIDE"];
+	_this setDir	164.20987;
+	_this setPos	[8215.6982, 8988.7393, -0.80665535];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 11
+if (true) then {
+	_this = createVehicle ["MAP_nav_pier_c", [8173.2754, 9062.7217, -5.6944723], [], 0, "CAN_COLLIDE"];
+	_this setDir	-466.91318;
+	_this setPos	[8173.2754, 9062.7217, -5.6944723];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 12
+if (true) then {
+	_this = createVehicle ["MAP_runway_beton", [8228.5449, 8993.9111, 6.1035156e-005], [], 0, "CAN_COLLIDE"];
+	_this setDir	-17.002352;
+	_this setPos	[8228.5449, 8993.9111, 6.1035156e-005];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 13
+if (true) then {
+	_this = createVehicle ["MAP_runway_beton", [8190.2754, 8982.2227], [], 0, "CAN_COLLIDE"];
+	_this setDir	-17.002352;
+	_this setPos	[8190.2754, 8982.2227];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 14
+if (true) then {
+	_this = createVehicle ["MAP_runway_beton", [8152.1289, 8970.5566], [], 0, "CAN_COLLIDE"];
+	_this setDir	-17.002352;
+	_this setPos	[8152.1289, 8970.5566];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 15
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8244.6445, 9008.4561, 18.938578], [], 0, "CAN_COLLIDE"];
+	_this setDir	72.74823;
+	_this setPos	[8244.6445, 9008.4561, 18.938578];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 16
+if (true) then {
+	_this = createVehicle ["MAP_nav_pier_c", [8204.582, 9072.2422, -4.9913049], [], 0, "CAN_COLLIDE"];
+	_this setDir	-466.91318;
+	_this setPos	[8204.582, 9072.2422, -4.9913049];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 17
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8210.0518, 9072.2891, 15.016713], [], 0, "CAN_COLLIDE"];
+	_this setDir	-17.848709;
+	_this setPos	[8210.0518, 9072.2891, 15.016713];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 18
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8238.7168, 9027.6504, 18.258072], [], 0, "CAN_COLLIDE"];
+	_this setDir	72.74823;
+	_this setPos	[8238.7168, 9027.6504, 18.258072];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 19
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8232.8096, 9046.4873, 17.732269], [], 0, "CAN_COLLIDE"];
+	_this setDir	72.74823;
+	_this setPos	[8232.8096, 9046.4873, 17.732269];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 20
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8226.9297, 9065.5342, 17.004946], [], 0, "CAN_COLLIDE"];
+	_this setDir	72.74823;
+	_this setPos	[8226.9297, 9065.5342, 17.004946];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 21
+if (true) then {
+	_this = createVehicle ["MBG_Warehouse_InEditor", [8138.291, 9001.6533, 1.6442995], [], 0, "CAN_COLLIDE"];
+	_this setDir	-106.4125;
+	_this setPos	[8138.291, 9001.6533, 1.6442995];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 22
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8141.9907, 9067.665, 17.044619], [], 0, "CAN_COLLIDE"];
+	_this setDir	-17.848709;
+	_this setPos	[8141.9907, 9067.665, 17.044619];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 23
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8149.0332, 8963.0967, 17.204094], [], 0, "CAN_COLLIDE"];
+	_this setDir	-15.762131;
+	_this setPos	[8149.0332, 8963.0967, 17.204094];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 24
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8121.3589, 8978.5195, 19.324375], [], 0, "CAN_COLLIDE"];
+	_this setDir	73.802383;
+	_this setPos	[8121.3589, 8978.5195, 19.324375];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 25
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8133.7529, 8964.9707, 18.514807], [], 0, "CAN_COLLIDE"];
+	_this setDir	73.802383;
+	_this setPos	[8133.7529, 8964.9707, 18.514807];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 26
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8151.7183, 9056.3789, 17.038342], [], 0, "CAN_COLLIDE"];
+	_this setDir	73.802383;
+	_this setPos	[8151.7183, 9056.3789, 17.038342];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 27
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8115.9268, 8997.46, 18.923635], [], 0, "CAN_COLLIDE"];
+	_this setDir	73.802383;
+	_this setPos	[8115.9268, 8997.46, 18.923635];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 28
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8110.5181, 9016.4502, 18.497051], [], 0, "CAN_COLLIDE"];
+	_this setDir	73.802383;
+	_this setPos	[8110.5181, 9016.4502, 18.497051];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 29
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8123.6831, 9061.7139, 18.480757], [], 0, "CAN_COLLIDE"];
+	_this setDir	-17.848709;
+	_this setPos	[8123.6831, 9061.7139, 18.480757];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 30
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8103.4038, 9040.7754, 16.386738], [], 0, "CAN_COLLIDE"];
+	_this setDir	73.802383;
+	_this setPos	[8103.4038, 9040.7754, 16.386738];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 31
+if (true) then {
+	_this = createVehicle ["CinderWallDoor_DZ", [8104.6187, 9028.1846, 0.21616921], [], 0, "CAN_COLLIDE"];
+	_this setDir	73.841568;
+	_this setPos	[8104.6187, 9028.1846, 0.21616921];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 32
+if (true) then {
+	_this = createVehicle ["MAP_runway_beton", [8156.2583, 9048.6367, -6.1035156e-005], [], 0, "CAN_COLLIDE"];
+	_this setDir	-107.86811;
+	_this setPos	[8156.2583, 9048.6367, -6.1035156e-005];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 33
+if (true) then {
+	_this = createVehicle ["MAP_telek1", [8148.5151, 9070.6563, 18.638615], [], 0, "CAN_COLLIDE"];
+	_this setDir	-18.084198;
+	_this setPos	[8148.5151, 9070.6563, 18.638615];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 34
+if (true) then {
+	_this = createVehicle ["MAP_Vysilac_FM", [8226.0068, 9068.9717, 18.663092], [], 0, "CAN_COLLIDE"];
+	_this setDir	-16.07671;
+	_this setPos	[8226.0068, 9068.9717, 18.663092];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 35
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8099.3525, 9004.9385, 13.998736], [], 0, "CAN_COLLIDE"];
+	_this setDir	-17.848709;
+	_this setPos	[8099.3525, 9004.9385, 13.998736];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 36
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8093.7134, 9052.0322, 14.835027], [], 0, "CAN_COLLIDE"];
+	_this setDir	-17.848709;
+	_this setPos	[8093.7134, 9052.0322, 14.835027];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 37
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8075.1802, 9045.8018, 14.696518], [], 0, "CAN_COLLIDE"];
+	_this setDir	-17.848709;
+	_this setPos	[8075.1802, 9045.8018, 14.696518];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 38
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8080.5649, 8998.8223, 13.914108], [], 0, "CAN_COLLIDE"];
+	_this setDir	-17.848709;
+	_this setPos	[8080.5649, 8998.8223, 13.914108];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 39
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8073.3262, 9030.7021, 16.207819], [], 0, "CAN_COLLIDE"];
+	_this setDir	73.802383;
+	_this setPos	[8073.3262, 9030.7021, 16.207819];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 40
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8065.5962, 9000.3682, 15.661879], [], 0, "CAN_COLLIDE"];
+	_this setDir	71.889687;
+	_this setPos	[8065.5962, 9000.3682, 15.661879];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 41
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8134.2998, 8979.7256], [], 0, "CAN_COLLIDE"];
+	_this setDir	-16.457657;
+	_this setPos	[8134.2998, 8979.7256];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 42
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8149.689, 8976.4111, -1.1039131], [], 0, "CAN_COLLIDE"];
+	_this setDir	73.802383;
+	_this setPos	[8149.689, 8976.4111, -1.1039131];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 43
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8120.9897, 9022.8779, -1.1870533], [], 0, "CAN_COLLIDE"];
+	_this setDir	-16.325909;
+	_this setPos	[8120.9897, 9022.8779, -1.1870533];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 44
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8164.9946, 8994.9268, -1.7532816], [], 0, "CAN_COLLIDE"];
+	_this setDir	166.32674;
+	_this setPos	[8164.9946, 8994.9268, -1.7532816];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 45
+if (true) then {
+	_this = createVehicle ["MAP_molo_krychle", [8228.5791, 9010.4004, -1.8134843], [], 0, "CAN_COLLIDE"];
+	_this setDir	162.86496;
+	_this setPos	[8228.5791, 9010.4004, -1.8134843];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 46
+if (true) then {
+	_this = createVehicle ["MetalFloor_DZ", [8163.0063, 8960.248, 36.443626], [], 0, "CAN_COLLIDE"];
+	_this setDir	-15.064273;
+	_this setPos	[8163.0063, 8960.248, 36.443626];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 47
+if (true) then {
+	_this = createVehicle ["MetalFloor_DZ", [8237.9912, 8981.042, 35.23616], [], 0, "CAN_COLLIDE"];
+	_this setDir	-16.097336;
+	_this setPos	[8237.9912, 8981.042, 35.23616];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 48
+if (true) then {
+	_this = createVehicle ["MetalFloor_DZ", [8145.2588, 8999.3271, 12.531328], [], 0, "CAN_COLLIDE"];
+	_this setDir	-16.620115;
+	_this setPos	[8145.2588, 8999.3271, 12.531328];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
+//Object 49
+if (true) then {
+	_this = createVehicle ["MetalFloor_DZ", [8207.7891, 9030.3438, 11.872587], [], 0, "CAN_COLLIDE"];
+	_this setDir	-16.976973;
+	_this setPos	[8207.7891, 9030.3438, 11.872587];
+	_this setVariable ["ObjectUID", "GeneratedByDotNetScript", true];
+	_this addEventHandler ["HandleDamage", {false}];
+	_this allowDamage false;
+	_this setvectorup [0,0,1];
+};
+
